@@ -1,0 +1,5 @@
+{
+  "name": "HyperManager",
+  "description": "A dark-themed dashboard for managing virtual machine hypervisors and hot-patching.",
+  "requestFramePermissions": []
+}
